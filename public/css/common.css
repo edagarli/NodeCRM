@@ -1,0 +1,156 @@
+#header {
+	background: #7F99BE url(../images/hd-bg.gif) repeat-x center;
+	height: 39px;
+	line-height: 26px;
+}
+
+
+#header td,th {
+    font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000;
+    margin:0;
+    padding:0;
+}
+
+#header h1 {
+	font-size: 14px;
+	color: #fff;
+	font-weight: 100;
+	padding: 5px 10px;
+	font-weight: bold;
+    margin:0;
+    padding:0;
+}
+
+.welcome {
+	color: #fff;
+	margin-right: 10px;
+}
+
+.logout {
+	padding: 0px 10px 0px 0px;
+}
+
+.refresh {
+	background-image: url(../images/icon/refresh.gif) !important;
+}
+
+.search {
+	background-image: url(../images/icon/search.gif) !important;
+}
+
+.save {
+	background-image: url(../images/icon/save.gif) !important;
+}
+
+.reset {
+	background-image: url(../images/icon/reset.gif) !important;
+}
+
+.add {
+	background-image: url(../images/icon/add.gif) !important;
+}
+
+.delete {
+	background-image: url(../images/icon/delete.gif) !important;
+}
+
+.cancel {
+	background-image: url(../images/icon/cancel.png) !important;
+}
+
+.edit {
+	background-image: url(../images/icon/edit.gif) !important;
+}
+
+.active {
+	background-image: url(../images/icon/key_go.png) !important;
+}
+
+.review {
+	background-image: url(../images/icon/page_white_camera.png) !important;
+}
+
+.clear {
+	background-image: url(../images/icon/cart_remove.png) !important;
+}
+
+.application_go {
+	background-image: url(../images/icon/application_go.gif) !important;
+}
+
+.excle {
+	background-image: url(../images/icon/page_white_excel.png) !important;
+}
+
+.excel {
+	background-image: url(../images/icon/page_white_excel.png) !important;
+}
+
+.comment {
+	background-image: url(../images/icon/page_white_edit.png) !important;
+}
+
+.manager {
+	background-image: url(../images/icon/wrench.png) !important;
+}
+
+.table {
+	background-image: url(../images/icon/table.png) !important;
+}
+
+.chart {
+	background-image: url(../images/icon/chart_bar.png) !important;
+}
+
+.download {
+	background-image: url(../images/icon/attach.png) !important;
+}
+
+.check {
+	background-image: url(../images/icon/tick.png) !important;
+}
+
+.static {
+	background-image: url(../images/icon/stat.gif) !important;
+}
+
+.search {
+	background-image: url(../images/icon/search.gif) !important;
+}
+
+.copy {
+	background-image: url(../images/icon/page_white_copy.png) !important;
+}
+
+.export {
+	background-image: url(../images/icon/application_get.png) !important;
+}
+.import {
+	background-image: url(../images/icon/application_put.png) !important;
+}
+.priv {
+	background-image: url(../images/icon/group_edit.png) !important;
+}
+.login {
+	background-image: url(../images/icon/user_go.png) !important;
+}
+
+.btn {
+	BORDER-RIGHT: #6593CF 1px solid;
+	PADDING-RIGHT: 2px;
+	BORDER-TOP: #6593CF 1px solid;
+	PADDING-LEFT: 2px;
+	FONT-SIZE: 12px;
+	FILTER: progid:  DXImageTransform.  Microsoft. 
+		Gradient(GradientType =   0, StartColorStr =   #ffffff, EndColorStr = 
+		 #E4EBF4);
+	BORDER-LEFT: #6593CF 1px solid;
+	CURSOR: hand;
+	COLOR: black;
+	PADDING-TOP: 0px;
+	PADDING-BOTTOM: 0px;
+	BORDER-BOTTOM: #6593CF 1px solid;
+	HEIGHT: 19px;
+}
