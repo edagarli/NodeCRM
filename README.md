@@ -1,2 +1,2 @@
 # NodeCRM
-node后台管理系统
+Node后台管理系统
